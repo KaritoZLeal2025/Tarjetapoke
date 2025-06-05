@@ -44,7 +44,7 @@ body {
     position: relative;
     transition: transform 0.3s;
     image-rendering: pixelated;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .pokecard:hover {
@@ -258,6 +258,7 @@ body {
     .pokecard {
         width: 280px;
         border-width: 6px;
+        margin-bottom: 40px;
     }
     
     .logo img {
@@ -285,6 +286,7 @@ body {
 @media (min-width: 401px) and (max-width: 600px) {
     .pokecard {
         width: 300px;
+        margin-bottom: 40px;
     }
     
     .logo img {
@@ -303,6 +305,7 @@ body {
     
     .pokecard {
         width: 350px;
+        margin-bottom: 40px;
     }
     
     .logo img {
@@ -324,6 +327,7 @@ body {
     
     .pokecard {
         width: 380px;
+        margin-bottom: 40px;
     }
     
     .logo img {
@@ -346,6 +350,7 @@ body {
     .pokecard {
         width: 400px;
         height: auto;
+        margin-bottom: 40px;
     }
     
     .logo img {
